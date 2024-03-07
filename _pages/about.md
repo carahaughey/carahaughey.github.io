@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Small change
+I am an economics Ph.D Candidate at Michigan State University. Prior to starting graduate school, I studied English and political science at Ohio State University, and spent nearly a decade working in the nonprofit and higher education sectors. 
+
+My research interests lie at the intersection of public and health economics. My work focuses how individual environments and circumstances impact health and well-being, and how policies and social safety net programs can impact welfare. Much of my work considers social determinants of health such as food access, pollution exposure, and gender.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
