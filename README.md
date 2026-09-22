@@ -8,12 +8,7 @@ Static academic website for `carahaughey.com`. It is ready for GitHub Pages and 
 - Replace PDFs in `papers/` or `cv/` while preserving the existing filenames.
 - Replace `assets/cara-haughey.jpg` to update the headshot.
 
-## Publishing with GitHub Pages
+## Publishing
 
-1. Create a public GitHub repository.
-2. Upload the contents of this folder to the repository root.
-3. In **Settings → Pages**, deploy from the `main` branch and root folder.
-4. Confirm the custom domain is `carahaughey.com`.
-5. Update the domain's DNS records as GitHub instructs, then enable HTTPS.
-
-The `CNAME` file is already included.
+The source is stored on `master`, and GitHub Pages serves the `gh-pages`
+branch. The `CNAME` file configures the custom domain `carahaughey.com`.
